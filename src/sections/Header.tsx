@@ -9,7 +9,7 @@ const Header = () => {
         <h1 className="w-1/2 font-medium text-5xl lg:text-8xl text-purple-900 pt-5">
           Design Studio
         </h1>
-        <p className="text-black py-5 mb-5">
+        <p className="text-slate-800 py-5 mb-5">
           Welcome to our design studio, where creativity and innovation converge
           to bring your visions to life. Our team of talented designers is
           dedicated to transforming your ideas into stunning visual realities,

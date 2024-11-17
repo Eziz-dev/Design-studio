@@ -11,7 +11,7 @@ const HiwCard = ({ number, heading }: Card) => {
           {number}
         </div>
         <h2 className="card-title text-red-700 pt-2 ">{heading}</h2>
-        <p className="text-gray-500 italic py-3">
+        <p className="text-slate-500 italic py-3">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda,
           blanditiis fuga illo nam quia tenetur vel! Delectus doloremque
           expedita explicabo inventore iure modi, molestiae voluptatum.
