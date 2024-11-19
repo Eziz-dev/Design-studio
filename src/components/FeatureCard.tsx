@@ -1,6 +1,6 @@
 import { FC } from "react";
 
-interface FCard {
+export interface FCard {
   img: string;
   alt: string;
   heading: string;

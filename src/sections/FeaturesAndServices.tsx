@@ -1,8 +1,7 @@
 import FeatureCard from "../components/FeatureCard.tsx";
+import {loremText} from "../constants";
 
 const FeaturesAndServices = () => {
-  const loremText: string =
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae id nesciunt quas! Inventore.";
 
   return (
     <section className="flex flex-wrap bg-gradient-to-r from-purple-500 to-white justify-center text-center">
